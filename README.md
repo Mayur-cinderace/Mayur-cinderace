@@ -68,7 +68,7 @@ Passionate about building AI-driven systems that bridge research and real-world 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayur-cinderace&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayur-cinderace&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
