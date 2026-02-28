@@ -1,16 +1,17 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Mayur Kumar K N</h1>
 
 <p align="center">
-Passionate about building AI-driven systems that bridge research and real-world applications.
+Pursuing AI & ML Undergraduate @ R.V. College of Engineering  
+Building AI-driven systems that bridge research and real-world applications.
 </p>
 
 ---
 
 ## 🎓 Education
 
-- 🎓 Pursuing **B.E. in Artificial Intelligence & Machine Learning**  
-  R.V. College of Engineering (2023 – Present)  
+🎓 Pursuing **B.E. in Artificial Intelligence & Machine Learning**  
+R.V. College of Engineering (2023 – Present)
+
 ---
 
 ## 🛠 Technical Skills
@@ -35,52 +36,49 @@ Passionate about building AI-driven systems that bridge research and real-world 
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR-2C3E50?style=for-the-badge)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-2C3E50?style=for-the-badge)
 
 ---
 
 ## 🚀 Projects
 
 ### 🏪 AI-driven Management for Kirana Stores
-- Built a retail intelligence platform for small-scale retailers.
-- Implemented demand forecasting & combo recommendation using **Apriori Algorithm**.
+- Retail intelligence platform for small-scale retailers.
+- Demand forecasting & combo recommendation using **Apriori Algorithm**.
 - Integrated **PaddleOCR** for receipt processing.
-- Automated GST-based billing with loyalty point system.
-- Designed an inventory tracking system leveraging **MongoDB vector search**.
+- Automated GST billing + loyalty points system.
+- Inventory tracking using **MongoDB vector search**.
 
 ---
 
 ### ⚡ Decentralised Edge-AI Energy Marketplace
-- Developed an AI + Blockchain-based energy trading platform.
-- Enabled peer-to-peer energy transactions using **Sepolia tokens via MetaMask**.
-- Integrated **Random Forest regression** to predict solar energy generation.
-- Designed system to support national renewable schemes like SolarUrja.
+- AI + Blockchain-based energy trading platform.
+- Peer-to-peer energy transactions using **Sepolia tokens via MetaMask**.
+- Solar generation prediction using **Random Forest regression**.
+- Designed to support renewable initiatives like SolarUrja.
 
 ---
 
 ### 🧬 AI-driven Pathogen Profiling using NLP
-- Built a platform to extract and store pathogen relations from research corpora.
-- Stored relational data in **Neo4j graph database**.
-- Implemented automated article fetcher + summarization using **Llama 3**.
+- Extracted pathogen relations from scientific corpora.
+- Stored relational knowledge in **Neo4j graph database**.
+- Automated article fetcher + summarization using **Llama 3**.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mayur-cinderace&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayur-cinderace&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mayur-cinderace&theme=tokyonight&hide_border=true" />
-</p>
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-- 📧 mayurkumarkn@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/mayur-kumar-k-n-7b6243293
-- 🌐 Portfolio: https://mayur-cinderace.github.io/
+- 📧 **Email:** mayurkumarkn@gmail.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/mayur-kumar-k-n-7b6243293  
+- 🌐 **Portfolio:** https://mayur-cinderace.github.io/
 
 ---
 
